@@ -1,5 +1,7 @@
 # A Virtual Machine for Ruby on Rails Core Development
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/rails-dev-box.svg)](https://www.guardrails.io)
+
 ## Introduction
 
 **Please note this VM is not designed for Rails application development, only Rails core development.**
